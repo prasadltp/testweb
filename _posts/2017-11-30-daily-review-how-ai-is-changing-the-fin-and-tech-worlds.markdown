@@ -1,6 +1,8 @@
 ---
 title: 'Daily Review: How AI Is Changing the ‘Fin’ and ‘Tech’ Worlds'
 date: 2017-11-30 07:11:00 Z
+categories:
+- Blockchain
 tags:
 - Insights
 Author: Elena Mesropyan
