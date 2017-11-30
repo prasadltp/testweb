@@ -6,6 +6,7 @@ categories:
 tags:
 - Insights
 Author: Elena Mesropyan
+thumbnail: http://placehold.it/100x100
 ---
 
 Annual worldwide AI revenue is projected to grow from $644 million in 2016 to [$37 billion](http://www.businesswire.com/news/home/20160825006052/en/Artificial-Intelligence-Revenue-Reach-36.8-Billion-Worldwide) by 2025, with [top use cases](https://www.top500.org/news/market-for-artificial-intelligence-projected-to-hit-36-billion-by-2025/)including algorithmic trading strategy performance improvement; static image recognition, classification, and tagging; efficient, scalable processing of patient data; predictive maintenance; content distribution on social media; and much more. [Machine learning is extensively applied by financial institutions](https://letstalkpayments.com/how-banks-regulators-are-applying-machine-learning/), and [AI is becoming the most defining technology in banking](https://letstalkpayments.com/ai-most-defining-technology-banking-industry/). Furthermore, AI is expected to have a strong impact on the FinTech community.
