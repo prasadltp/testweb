@@ -3,6 +3,7 @@ title: Why WeChat Is the Swiss Army Knife of the Chinese Digital World
 date: 2017-11-30 07:04:00 Z
 categories:
 - cryptocurrency
+- Blockchain
 tags:
 - Insights
 ---
