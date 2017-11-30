@@ -6,6 +6,7 @@ categories:
 - Blockchain
 tags:
 - Insights
+Image: "/uploads/we1-400x220.png"
 ---
 
 Chinese e-commerce colossus Tencent is an elephant in the room that is impossible not to talk about as the company[surpasses Facebook in value](http://money.cnn.com/2017/11/21/investing/tencent-facebook-value/index.html) after a blockbuster year that saw its share price more than double. Tencent makes headlines on many accounts, including foreign high-caliber investments – earlier this year, it picked up a [12%](http://money.cnn.com/2017/11/08/technology/snap-tencent-snapchat/index.html?iid=EL) stake in Snap (the owner of Snapchat) and [5%](http://money.cnn.com/2017/03/29/technology/tencent-tesla-pony-ma-elon-musk/index.html?iid=EL) in electric vehicle giant Tesla, aside from series of investments in startups across Asia. Investments, however, are not what I’d like to drill into this time.
