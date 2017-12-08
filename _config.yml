@@ -1,23 +1,25 @@
----
-title: prasadtest
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+# Site settings
+title: Let's Talk Payments
+email: prasad@letstalkpayments.com
+description: "Just Another Jekyll Theme"
+logo: "https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/ltplogo.png"
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: rouge
+
+#Other Global Configuration
+exclude: ['README.md']
+
+excerpt_separator: <!--more-->
+
+#show the jumbotron header on index page
+show_blog_header: true
+
+
