@@ -1,10 +1,14 @@
 ---
+title: Helping Insurers Adjust to the New Reality of the Sharing Economy – Interview
+  With Brad Weisberg, CEO & Founder of Snapsheet
+date: 2017-12-06 00:00:00 Z
+tags:
+- ASIA
+- EUROPE
+- INSIGHTS
+- US
 layout: post
-tags: ASIA EUROPE INSIGHTS US
-date: 2017-12-06
 thumbnail: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/Snap2-400x220.png
-title: Helping Insurers Adjust to the New Reality of the Sharing Economy – Interview With Brad Weisberg, CEO & Founder of Snapsheet
-published: true
 ---
 
 The LTP Team had a pleasure to interview Brad Weisberg, CEO & Founder of Snapsheet, provider of virtual claims technology used by auto insurance carriers to optimize workflows, speed up claims processes and provide superior service to their customers.

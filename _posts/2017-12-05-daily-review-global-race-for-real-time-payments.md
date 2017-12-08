@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Daily Review The Global Race for Real-Time Payments
-date: 2017-12-05
-tags: ASIA INSIGHTS 
+date: 2017-12-05 00:00:00 Z
+tags:
+- ASIA
+- INSIGHTS
+layout: post
 thumbnail: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/dolla-400x220.png
-published: true
 ---
 
 “The brave new world of global finance is getting braver. Real-time and near-real-time payments systems have changed the fabric of online commerce.” – Patricia Pozuelo, Enterprise Technology Specialist, Intel
