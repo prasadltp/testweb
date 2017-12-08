@@ -1,9 +1,10 @@
 ---
 title: Applications of Big Data Analytics That Yield the Most Value
 date: 2017-12-08 12:28:00 Z
+thumbnail: 
 ---
 
-Worldwide revenues for big data and business analytics will grow from $130.1 billion in 2016 to more than $203 billion in 2020, at a CAGR of 11.7%, IDC [estimated](https://letstalkpayments.com/worldwide-revenues-for-big-data-and-business-analytics-will-surpass-200-billion-in-2020/). “The availability of data, a new generation of technology, and a cultural shift toward data-driven decision making continue to drive demand for big data and analytics technology and services,” said [Dan Vesset](http://www.idc.com/getdoc.jsp?containerId=PRF000388), Group Vice President, Analytics and Information Management, IDC.
+Worldwide revenues for big data and business analytics will grow from $130.1 billion in 2016 to more than $203 billion in 2020, at a CAGR of 11.7%, IDC [estimated](https://letstalkpayments.com/worldwide-revenues-for-big-data-and-business-analytics-will-surpass-200-billion-in-2020/). “The availability of data, a new generation of technology, and a cultural shift toward data-driven decision making continue to drive demand for big data and analytics technology and services,” said [Dan Vesset](http://www.idc.com/getdoc.jsp?containerId=PRF000388), Group Vice President, Analytics and Information Management, IDC.<!--more-->
 
 *Forbes* [reports](https://www.forbes.com/sites/gilpress/2017/01/20/6-predictions-for-the-203-billion-big-data-analytics-market/#7104a2ae2083) that by the end of 2017, revenue growth from information-based products will double the rest of the product/service portfolio for one-third of Fortune 500 companies. Raw data and various value-added content will be bought and sold either via marketplaces or in bilateral transactions and enterprises will begin to develop methods for valuing their data.
 
