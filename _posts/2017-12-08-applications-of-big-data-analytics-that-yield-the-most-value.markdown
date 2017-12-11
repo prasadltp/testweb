@@ -1,6 +1,9 @@
 ---
 title: Applications of Big Data Analytics That Yield the Most Value
 date: 2017-12-08 12:28:00 Z
+tags:
+- ASIA
+- INSIGHTS
 thumbnail: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/Bigdata1-400x220.png
 ---
 
