@@ -5,6 +5,7 @@ tags:
 - ASIA
 - INSIGHTS
 thumbnail: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/Bigdata1-400x220.png
+Author: Elena Mesropyan
 ---
 
 Worldwide revenues for big data and business analytics will grow from $130.1 billion in 2016 to more than $203 billion in 2020, at a CAGR of 11.7%, IDC [estimated](https://letstalkpayments.com/worldwide-revenues-for-big-data-and-business-analytics-will-surpass-200-billion-in-2020/). “The availability of data, a new generation of technology, and a cultural shift toward data-driven decision making continue to drive demand for big data and analytics technology and services,” said [Dan Vesset](http://www.idc.com/getdoc.jsp?containerId=PRF000388), Group Vice President, Analytics and Information Management, IDC.<!--more-->
